@@ -8,3 +8,7 @@ listado de comandos hechos
 6 git commit -m "comentario"
 7 git status
 8 git push origin main
+9 editar read me 
+10 git add 
+11 git commit 
+12 git push 
